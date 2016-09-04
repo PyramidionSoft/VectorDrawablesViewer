@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./Libs/svgSalamander.jar
+Main-Class: com.gmail.pyramidionsoft.vectordrawablesviewer.Main
+

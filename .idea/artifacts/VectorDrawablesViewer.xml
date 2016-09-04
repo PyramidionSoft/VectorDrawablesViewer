@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VectorDrawablesViewer">
+    <output-path>$PROJECT_DIR$/out/artifacts/VectorDrawablesViewer</output-path>
+    <root id="archive" name="VectorDrawablesViewer.jar">
+      <element id="module-output" name="VectorDrawablesViewer" />
+    </root>
+  </artifact>
+</component>
